@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pizza_array" >
+    <item>XS - 10cm</item>
+        <item>S - 15cm</item>
+        <item>M - 20cm</item>
+    </string-array>
+</resources>
